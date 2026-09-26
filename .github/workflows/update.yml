@@ -20,7 +20,7 @@ jobs:
         run: python scripts/update_filter.py
       - name: Commit changes
         run: |
-          git add filters/bitwire-outbound.txt
+          git add filters/*.txt
           if git diff --cached --quiet; then
             echo "Filter is unchanged"
             exit 0
