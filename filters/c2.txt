@@ -72,7 +72,6 @@
 14.225.212.124$network
 16.162.137.167$network
 18.170.69.70$network
-18.195.42.71$network
 18.232.64.100$network
 20.166.18.164$network
 20.187.120.42$network
