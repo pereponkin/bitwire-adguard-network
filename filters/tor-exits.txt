@@ -525,6 +525,7 @@
 45.66.35.98$network
 45.77.93.153$network
 45.77.140.122$network
+45.77.166.60$network
 45.77.167.52$network
 45.79.50.161$network
 45.79.177.21$network
