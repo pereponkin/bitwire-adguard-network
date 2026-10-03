@@ -603,7 +603,6 @@
 122.51.50.44$network
 122.51.93.94$network
 122.51.221.207$network
-123.30.48.175$network
 123.57.146.34$network
 123.57.208.37$network
 123.58.64.57$network

@@ -6,7 +6,6 @@
 ! Category source: https://rules.emergingthreats.net/open/suricata/rules/compromised-ips.txt
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
-1.27.251.252$network
 1.231.29.229$network
 2.26.96.139$network
 2.29.38.132$network
@@ -28,7 +27,6 @@
 23.170.200.122$network
 23.251.142.0$network
 27.79.2.165$network
-27.79.5.21$network
 27.79.5.78$network
 27.79.6.58$network
 27.79.40.50$network
@@ -36,7 +34,6 @@
 27.118.20.168$network
 27.123.7.187$network
 31.57.216.7$network
-31.58.216.82$network
 32.216.229.57$network
 32.220.142.60$network
 34.14.2.117$network
@@ -62,7 +59,6 @@
 34.38.97.154$network
 34.38.116.71$network
 34.38.205.106$network
-34.38.226.251$network
 34.38.229.202$network
 34.52.144.133$network
 34.52.217.210$network
@@ -95,9 +91,7 @@
 34.77.50.160$network
 34.77.79.136$network
 34.77.112.74$network
-34.77.227.58$network
 34.77.235.216$network
-34.77.253.197$network
 34.78.1.31$network
 34.78.16.76$network
 34.78.69.133$network
@@ -155,7 +149,6 @@
 35.195.159.53$network
 35.195.203.14$network
 35.195.229.6$network
-35.205.104.31$network
 35.205.119.118$network
 35.205.136.103$network
 35.205.138.186$network
@@ -194,7 +187,6 @@
 44.250.156.195$network
 45.43.60.98$network
 45.119.85.159$network
-45.145.154.192$network
 45.148.10.61$network
 45.152.217.81$network
 45.153.34.117$network
@@ -267,7 +259,6 @@
 80.94.95.116$network
 80.97.160.31$network
 81.230.146.243$network
-82.39.154.137$network
 82.67.89.138$network
 82.79.238.166$network
 82.152.211.215$network
@@ -304,7 +295,6 @@
 94.26.106.199$network
 94.26.106.252$network
 94.26.106.253$network
-94.154.43.48$network
 94.154.43.69$network
 94.154.43.73$network
 94.154.43.223$network
@@ -312,27 +302,19 @@
 94.204.15.80$network
 95.58.221.186$network
 95.85.245.227$network
-101.47.28.226$network
 101.47.134.74$network
 101.47.152.216$network
 101.96.195.253$network
 102.16.48.130$network
 102.130.193.150$network
-102.203.197.6$network
 102.217.42.136$network
-102.220.160.38$network
 102.220.160.42$network
 102.220.160.67$network
 102.220.160.110$network
-102.220.160.113$network
-102.220.160.115$network
 102.220.160.124$network
-102.220.160.170$network
-102.220.160.227$network
 102.220.160.237$network
 102.220.161.27$network
 102.220.161.28$network
-102.220.161.29$network
 102.220.161.79$network
 102.220.161.85$network
 102.220.161.86$network
@@ -385,7 +367,6 @@
 103.214.100.4$network
 103.232.25.114$network
 103.234.200.252$network
-103.241.168.70$network
 104.155.46.74$network
 104.155.100.207$network
 104.199.29.222$network
@@ -457,12 +438,10 @@
 134.122.98.205$network
 137.184.79.60$network
 138.2.235.147$network
-138.68.22.130$network
 138.68.135.172$network
 138.68.139.224$network
 138.195.128.132$network
 138.197.195.132$network
-138.197.197.27$network
 138.197.213.121$network
 138.226.239.233$network
 138.226.239.234$network
@@ -474,12 +453,10 @@
 144.217.243.186$network
 146.56.103.89$network
 146.148.9.100$network
-147.182.211.219$network
 147.224.162.134$network
 151.80.213.177$network
 152.67.9.154$network
 154.18.197.29$network
-154.127.69.0$network
 155.4.218.159$network
 157.15.83.81$network
 157.230.111.104$network
@@ -489,7 +466,6 @@
 158.69.197.98$network
 159.65.67.53$network
 159.223.0.233$network
-160.119.76.10$network
 160.119.220.2$network
 160.154.41.184$network
 160.187.54.114$network
@@ -498,7 +474,6 @@
 161.35.175.29$network
 162.239.29.145$network
 162.248.161.132$network
-163.7.4.169$network
 163.47.33.70$network
 163.61.103.152$network
 163.61.134.228$network
@@ -509,14 +484,9 @@
 165.22.160.74$network
 165.22.166.7$network
 165.154.52.159$network
-165.227.13.145$network
-165.232.103.73$network
 165.232.148.95$network
-167.71.117.7$network
 167.86.91.48$network
 167.99.157.3$network
-167.99.219.176$network
-167.172.52.88$network
 167.172.217.56$network
 170.246.145.211$network
 171.231.179.179$network
@@ -644,7 +614,6 @@
 216.87.32.78$network
 216.87.32.137$network
 216.232.226.203$network
-218.201.39.71$network
 219.78.63.235$network
 219.140.138.90$network
 219.153.106.29$network
