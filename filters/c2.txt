@@ -108,7 +108,6 @@
 38.14.248.199$network
 38.38.250.99$network
 38.47.122.34$network
-38.49.57.15$network
 38.54.61.225$network
 38.54.89.235$network
 38.54.112.234$network
