@@ -25,7 +25,6 @@
 5.104.86.108$network
 5.252.153.0$network
 8.17.56.128$network
-8.130.13.250$network
 8.130.74.111$network
 8.130.80.145$network
 8.130.173.155$network
