@@ -7,6 +7,7 @@
 ! Category source: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/IPC2s-90day.csv
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
+1.12.253.219$network
 1.13.141.229$network
 1.13.247.208$network
 1.14.217.176$network
@@ -213,6 +214,7 @@
 45.195.8.27$network
 45.202.1.194$network
 45.202.249.88$network
+45.207.8.36$network
 45.207.192.190$network
 45.207.199.148$network
 45.227.253.121$network
@@ -621,6 +623,7 @@
 124.220.36.247$network
 124.220.41.22$network
 124.220.235.4$network
+124.221.191.237$network
 124.221.237.102$network
 124.222.57.34$network
 124.222.75.188$network
