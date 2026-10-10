@@ -6,7 +6,6 @@
 ! Category source: https://rules.emergingthreats.net/open/suricata/rules/compromised-ips.txt
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
-2.26.96.139$network
 2.29.38.132$network
 2.57.122.53$network
 2.57.122.238$network
@@ -36,7 +35,6 @@
 27.79.42.197$network
 27.118.20.168$network
 27.123.7.187$network
-32.216.229.57$network
 32.220.142.60$network
 34.14.2.117$network
 34.14.6.137$network
@@ -46,7 +44,6 @@
 34.14.80.244$network
 34.14.93.220$network
 34.22.147.170$network
-34.22.149.191$network
 34.22.152.86$network
 34.22.158.50$network
 34.22.242.158$network
@@ -88,7 +85,6 @@
 34.77.2.135$network
 34.77.16.133$network
 34.77.23.255$network
-34.77.28.44$network
 34.77.47.237$network
 34.77.50.160$network
 34.77.79.136$network
@@ -104,7 +100,6 @@
 34.78.215.232$network
 34.79.30.152$network
 34.79.116.107$network
-34.79.120.248$network
 34.79.228.227$network
 34.140.22.32$network
 34.140.23.40$network
@@ -159,7 +154,6 @@
 35.233.26.3$network
 35.233.81.88$network
 35.240.39.204$network
-35.240.80.114$network
 35.240.123.105$network
 35.241.147.65$network
 36.94.179.154$network
@@ -302,8 +296,6 @@
 96.44.168.88$network
 101.33.78.144$network
 101.47.133.255$network
-101.47.134.74$network
-101.47.152.216$network
 101.96.195.253$network
 101.96.203.141$network
 102.16.48.130$network
@@ -380,7 +372,6 @@
 107.189.17.7$network
 107.189.24.56$network
 108.142.154.184$network
-108.165.164.23$network
 109.123.227.46$network
 109.226.38.244$network
 110.10.176.164$network
@@ -461,7 +452,6 @@
 151.80.213.177$network
 152.67.9.154$network
 154.18.197.29$network
-155.4.218.159$network
 157.15.83.81$network
 157.230.111.104$network
 157.245.148.90$network
@@ -482,7 +472,6 @@
 163.128.235.62$network
 163.176.172.27$network
 164.160.1.220$network
-165.154.52.159$network
 167.71.233.141$network
 167.86.91.48$network
 167.99.157.3$network
@@ -493,7 +482,6 @@
 171.231.194.67$network
 171.231.196.240$network
 171.231.197.135$network
-171.231.198.207$network
 171.243.149.238$network
 173.12.0.166$network
 174.138.41.138$network
@@ -504,7 +492,6 @@
 176.236.127.114$network
 177.104.171.118$network
 178.128.7.6$network
-178.128.183.16$network
 179.107.82.23$network
 179.127.10.169$network
 180.93.99.150$network
