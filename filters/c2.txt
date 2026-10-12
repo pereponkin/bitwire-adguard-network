@@ -31,7 +31,6 @@
 8.130.173.155$network
 8.134.51.218$network
 8.134.70.73$network
-8.134.105.126$network
 8.134.166.14$network
 8.134.255.60$network
 8.135.47.140$network
@@ -450,6 +449,7 @@
 106.53.168.218$network
 106.55.25.253$network
 106.55.253.229$network
+106.75.7.239$network
 106.75.31.247$network
 106.75.215.96$network
 106.75.224.31$network
