@@ -28,7 +28,6 @@
 27.79.41.27$network
 27.79.42.197$network
 27.123.7.187$network
-32.220.142.60$network
 34.14.2.117$network
 34.14.6.137$network
 34.14.24.156$network
@@ -40,7 +39,6 @@
 34.22.152.86$network
 34.22.158.50$network
 34.22.242.158$network
-34.26.152.184$network
 34.34.148.123$network
 34.34.151.186$network
 34.38.22.155$network
@@ -61,8 +59,6 @@
 34.53.254.172$network
 34.62.14.215$network
 34.62.70.211$network
-34.62.108.134$network
-34.62.111.34$network
 34.62.198.231$network
 34.62.201.79$network
 34.62.222.88$network
@@ -78,7 +74,6 @@
 34.77.16.133$network
 34.77.23.255$network
 34.77.47.237$network
-34.77.50.160$network
 34.77.71.244$network
 34.77.79.136$network
 34.77.122.5$network
@@ -105,7 +100,6 @@
 34.143.191.88$network
 34.156.76.191$network
 34.156.106.181$network
-34.156.116.65$network
 34.156.126.241$network
 34.156.143.100$network
 34.156.159.179$network
@@ -169,7 +163,6 @@
 45.55.30.94$network
 45.78.224.87$network
 45.78.224.198$network
-45.119.85.159$network
 45.148.10.61$network
 45.148.10.240$network
 45.153.34.117$network
@@ -183,9 +176,7 @@
 45.198.224.34$network
 45.198.224.48$network
 45.198.224.184$network
-46.8.31.84$network
 46.101.27.53$network
-49.212.156.173$network
 50.6.251.68$network
 50.221.56.52$network
 51.4.98.141$network
@@ -213,7 +204,6 @@
 69.5.21.194$network
 69.33.213.117$network
 73.34.17.163$network
-73.147.19.171$network
 74.208.129.156$network
 75.119.145.108$network
 77.90.185.20$network
@@ -228,7 +218,6 @@
 80.94.95.116$network
 80.97.160.31$network
 83.143.112.7$network
-83.250.4.220$network
 83.254.144.242$network
 84.12.127.189$network
 85.11.167.38$network
@@ -301,7 +290,6 @@
 103.90.25.52$network
 103.90.25.243$network
 103.90.67.3$network
-103.90.155.32$network
 103.105.74.30$network
 103.113.171.119$network
 103.118.182.33$network
@@ -328,7 +316,6 @@
 104.199.98.110$network
 106.13.48.135$network
 108.142.154.184$network
-109.123.227.46$network
 109.226.38.244$network
 110.10.176.164$network
 111.29.52.71$network
@@ -408,7 +395,6 @@
 163.61.103.152$network
 163.61.134.228$network
 163.128.235.62$network
-163.176.172.27$network
 164.30.17.82$network
 165.154.218.226$network
 167.71.233.141$network
@@ -481,7 +467,6 @@
 207.175.41.99$network
 207.175.45.86$network
 207.175.52.84$network
-207.175.55.14$network
 207.175.58.123$network
 207.175.84.144$network
 207.175.96.14$network
