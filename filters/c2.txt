@@ -17,6 +17,7 @@
 1.15.171.190$network
 1.92.95.105$network
 1.92.101.103$network
+1.92.135.168$network
 1.94.65.9$network
 1.94.187.246$network
 1.117.61.9$network
@@ -432,7 +433,6 @@
 104.143.39.243$network
 104.143.204.78$network
 104.168.102.116$network
-104.168.117.123$network
 104.248.201.191$network
 106.12.61.28$network
 106.12.219.245$network
