@@ -423,6 +423,7 @@
 37.114.63.5$network
 37.120.166.23$network
 37.187.5.192$network
+37.187.74.97$network
 37.221.208.71$network
 37.221.209.150$network
 37.228.129.24$network
@@ -470,6 +471,9 @@
 45.9.156.110$network
 45.9.156.131$network
 45.9.156.144$network
+45.9.156.182$network
+45.9.156.184$network
+45.9.156.185$network
 45.9.156.238$network
 45.9.168.62$network
 45.9.168.69$network
@@ -729,6 +733,7 @@
 62.84.176.89$network
 62.133.45.2$network
 62.133.60.208$network
+62.164.141.162$network
 62.169.23.158$network
 62.171.137.169$network
 62.182.82.143$network
