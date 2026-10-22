@@ -474,6 +474,7 @@
 45.9.156.110$network
 45.9.156.131$network
 45.9.156.144$network
+45.9.156.156$network
 45.9.156.182$network
 45.9.156.183$network
 45.9.156.184$network
@@ -905,6 +906,7 @@
 89.58.63.200$network
 89.99.115.4$network
 89.125.13.177$network
+89.127.232.224$network
 89.147.108.56$network
 89.147.108.62$network
 89.147.108.90$network
