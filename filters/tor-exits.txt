@@ -29,6 +29,7 @@
 5.2.69.83$network
 5.2.69.84$network
 5.2.69.85$network
+5.2.69.86$network
 5.2.72.110$network
 5.2.79.179$network
 5.2.79.190$network
