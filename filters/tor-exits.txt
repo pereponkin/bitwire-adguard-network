@@ -740,6 +740,12 @@
 62.84.176.89$network
 62.133.45.2$network
 62.133.60.208$network
+62.144.62.10$network
+62.144.62.11$network
+62.144.62.12$network
+62.144.62.13$network
+62.144.62.14$network
+62.144.62.15$network
 62.164.141.162$network
 62.169.23.158$network
 62.171.137.169$network
@@ -1255,6 +1261,7 @@
 141.239.158.222$network
 142.44.234.69$network
 142.171.12.112$network
+142.249.174.12$network
 143.20.166.14$network
 143.20.185.77$network
 143.42.110.237$network
