@@ -29,7 +29,6 @@
 27.79.6.217$network
 27.79.7.67$network
 27.79.7.86$network
-27.79.40.50$network
 27.79.40.187$network
 27.79.41.27$network
 27.79.42.197$network
@@ -45,7 +44,6 @@
 34.38.40.52$network
 34.38.152.234$network
 34.38.237.125$network
-34.52.144.133$network
 34.52.145.157$network
 34.52.154.163$network
 34.52.167.231$network
@@ -71,12 +69,10 @@
 34.76.148.182$network
 34.76.149.2$network
 34.76.154.106$network
-34.76.169.235$network
 34.76.214.158$network
 34.76.242.54$network
 34.76.243.125$network
 34.77.1.98$network
-34.77.23.255$network
 34.77.30.113$network
 34.77.47.237$network
 34.77.71.244$network
@@ -87,7 +83,6 @@
 34.78.103.39$network
 34.78.112.64$network
 34.78.156.2$network
-34.78.215.232$network
 34.78.218.70$network
 34.79.30.152$network
 34.79.89.168$network
@@ -114,7 +109,6 @@
 35.187.8.59$network
 35.187.23.210$network
 35.187.35.110$network
-35.187.91.46$network
 35.187.93.104$network
 35.187.125.32$network
 35.187.181.96$network
@@ -127,7 +121,6 @@
 35.205.59.95$network
 35.205.73.209$network
 35.205.119.118$network
-35.205.136.103$network
 35.205.144.81$network
 35.205.187.128$network
 35.205.193.65$network
@@ -139,7 +132,6 @@
 35.233.54.251$network
 35.233.88.19$network
 35.240.110.140$network
-35.240.123.105$network
 35.241.147.65$network
 35.241.189.123$network
 35.241.210.215$network
@@ -172,7 +164,6 @@
 45.156.87.50$network
 45.156.87.65$network
 45.156.87.72$network
-45.156.87.146$network
 45.156.87.162$network
 45.156.87.168$network
 45.156.87.189$network
@@ -256,8 +247,6 @@
 94.154.43.69$network
 94.154.43.70$network
 94.154.43.223$network
-94.154.43.254$network
-96.44.168.88$network
 96.125.137.54$network
 101.33.78.144$network
 101.47.28.226$network
@@ -299,7 +288,6 @@
 104.155.84.46$network
 104.155.88.246$network
 104.155.92.149$network
-104.155.100.207$network
 104.199.53.45$network
 104.199.68.22$network
 104.199.86.173$network
@@ -330,7 +318,6 @@
 116.110.211.73$network
 116.110.213.169$network
 116.110.217.75$network
-116.110.220.232$network
 116.110.223.61$network
 116.110.223.150$network
 119.28.84.193$network
@@ -377,7 +364,6 @@
 144.225.8.54$network
 146.148.23.152$network
 148.72.64.140$network
-149.202.60.122$network
 152.32.186.39$network
 152.32.225.117$network
 152.32.236.102$network
@@ -478,7 +464,6 @@
 207.175.58.123$network
 207.175.64.233$network
 207.175.77.252$network
-207.175.84.144$network
 207.175.121.84$network
 207.175.132.201$network
 207.175.162.146$network
