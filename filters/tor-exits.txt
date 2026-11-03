@@ -567,6 +567,7 @@
 47.254.15.174$network
 47.254.153.161$network
 47.254.173.155$network
+49.213.62.84$network
 51.15.15.45$network
 51.15.15.81$network
 51.15.16.14$network
@@ -1733,7 +1734,6 @@
 198.98.57.74$network
 198.98.57.151$network
 198.98.57.218$network
-198.98.60.90$network
 198.98.61.60$network
 198.98.62.158$network
 198.167.206.134$network
@@ -1951,6 +1951,7 @@
 [2001:67c:e28:1::103]$network
 [2001:67c:e28:1::104]$network
 [2001:67c:2044:1905::26]$network
+[2001:67c:2044:c141:0:1:6431:1]$network
 [2001:67c:2608::1]$network
 [2001:67c:289c::20]$network
 [2001:67c:289c::25]$network
@@ -2603,6 +2604,7 @@
 [2a0b:f4c2::3]$network
 [2a0b:f4c2::4]$network
 [2a0b:f4c2::5]$network
+[2a0b:f4c2::6]$network
 [2a0b:f4c2::7]$network
 [2a0b:f4c2::8]$network
 [2a0b:f4c2::9]$network
@@ -2817,5 +2819,4 @@
 [2a14:c380:d70:16::a]$network
 [2a14:c380:d70:1b::a]$network
 [2a14:c380:d70:8d::a]$network
-[2a14:c380:1300:e8::a]$network
 [2c0f:6c0:0:11::b00:b1e5]$network
