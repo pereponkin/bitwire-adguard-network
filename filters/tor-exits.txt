@@ -1280,6 +1280,8 @@
 185.207.107.130$network
 185.207.107.216$network
 185.212.226.76$network
+185.217.2.239$network
+185.217.2.241$network
 185.220.100.240$network
 185.220.100.241$network
 185.220.100.242$network
@@ -2011,6 +2013,7 @@
 [2402:1f00:8000:239::]$network
 [2402:1f00:8100:400::9]$network
 [2402:a7c0:3003:113:1c00:30ff:fe00:b29]$network
+[2407:3640:2207:8882::1]$network
 [2600:3c00::f03c:91ff:fe73:f9ba]$network
 [2600:3c00::f03c:95ff:fe5d:8f00]$network
 [2600:3c03::f03c:95ff:fe5d:562]$network
@@ -2164,11 +2167,8 @@
 [2602:f915:0:2ce1::1]$network
 [2602:f915:7:5a6c::1]$network
 [2602:fa59:5:b94::1]$network
-[2602:fa5d::1d7]$network
-[2602:fa5d::241]$network
 [2602:fa5d::38c]$network
 [2602:fa5d::3a1]$network
-[2602:fa5d::53e]$network
 [2602:fb54:1400::1d]$network
 [2602:fba1:100::60:1]$network
 [2602:fba1:100::61:1]$network
@@ -2445,7 +2445,6 @@
 [2a00:63c1:e:216::2]$network
 [2a00:74a0:e000:1003::114]$network
 [2a00:99a0:0:1000::2]$network
-[2a00:da00:f460:f800::1]$network
 [2a01:238:437e:cb00:aefa:d0c8:6925:2942]$network
 [2a01:270:9847::1]$network
 [2a01:4f8:173:1763:73da:a392:c19b:9aa3]$network
@@ -2613,6 +2612,7 @@
 [2a0b:f4c2::3]$network
 [2a0b:f4c2::4]$network
 [2a0b:f4c2::5]$network
+[2a0b:f4c2::6]$network
 [2a0b:f4c2::7]$network
 [2a0b:f4c2::8]$network
 [2a0b:f4c2::9]$network
@@ -2627,6 +2627,7 @@
 [2a0b:f4c2::18]$network
 [2a0b:f4c2::19]$network
 [2a0b:f4c2::20]$network
+[2a0b:f4c2::21]$network
 [2a0b:f4c2::22]$network
 [2a0b:f4c2::23]$network
 [2a0b:f4c2::24]$network
