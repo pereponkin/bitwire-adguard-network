@@ -509,7 +509,6 @@
 45.137.99.79$network
 45.137.99.182$network
 45.137.99.212$network
-45.137.201.5$network
 45.137.201.54$network
 45.137.201.93$network
 45.137.201.100$network
@@ -954,7 +953,6 @@
 141.98.233.146$network
 141.239.158.222$network
 142.171.12.112$network
-142.249.174.12$network
 142.249.174.14$network
 143.20.166.14$network
 143.20.185.77$network
@@ -1669,7 +1667,6 @@
 192.253.248.96$network
 192.255.201.6$network
 193.26.115.43$network
-193.26.115.44$network
 193.26.115.61$network
 193.26.115.82$network
 193.26.115.123$network
@@ -1936,7 +1933,6 @@
 213.176.18.193$network
 216.73.159.75$network
 216.73.159.101$network
-216.86.69.11$network
 216.239.90.19$network
 217.12.221.131$network
 217.60.78.198$network
@@ -2050,6 +2046,7 @@
 [2602:f6f6:2:dc17::1]$network
 [2602:f6f6:2:dee8::1]$network
 [2602:f6f6:2:e74f::1]$network
+[2602:f6f6:2:f2a8::1]$network
 [2602:f6f6:2:f64f::1]$network
 [2602:f6f6:2:fda9::1]$network
 [2602:f7d8:0:1337::7]$network
