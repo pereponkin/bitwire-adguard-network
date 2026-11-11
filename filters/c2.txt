@@ -9,7 +9,6 @@
 ! Expires: 2 hours
 1.12.253.219$network
 1.13.141.229$network
-1.13.247.208$network
 1.14.217.176$network
 1.14.227.23$network
 1.15.76.39$network
@@ -231,7 +230,6 @@
 47.100.16.83$network
 47.101.51.235$network
 47.101.172.178$network
-47.102.184.26$network
 47.103.78.72$network
 47.103.95.85$network
 47.103.214.7$network
@@ -272,7 +270,6 @@
 47.239.222.85$network
 47.242.0.207$network
 47.242.248.156$network
-49.7.54.204$network
 49.51.230.17$network
 49.232.4.71$network
 49.232.4.144$network
@@ -336,7 +333,6 @@
 82.158.89.75$network
 82.158.89.214$network
 83.229.126.183$network
-83.229.127.46$network
 85.11.182.104$network
 85.137.240.208$network
 85.175.101.203$network
@@ -353,7 +349,6 @@
 100.82.195.65$network
 100.87.53.0$network
 100.110.56.1$network
-100.113.210.8$network
 101.33.225.32$network
 101.34.208.175$network
 101.34.235.198$network
@@ -415,7 +410,6 @@
 106.55.34.199$network
 106.55.253.229$network
 106.75.7.239$network
-106.75.31.247$network
 106.75.249.202$network
 107.150.105.91$network
 107.151.246.172$network
@@ -513,8 +507,6 @@
 118.25.10.65$network
 118.25.16.250$network
 118.25.147.157$network
-118.25.178.35$network
-118.26.39.237$network
 118.31.18.77$network
 118.31.62.238$network
 118.31.114.149$network
@@ -684,7 +676,6 @@
 156.234.211.220$network
 156.234.211.242$network
 156.238.233.131$network
-156.239.47.94$network
 156.239.47.223$network
 156.239.224.131$network
 156.239.238.117$network
@@ -715,10 +706,8 @@
 162.251.92.64$network
 165.22.225.218$network
 165.99.43.101$network
-165.154.24.229$network
 165.154.68.30$network
 165.154.225.239$network
-165.154.244.77$network
 165.154.254.203$network
 167.17.47.252$network
 167.71.233.187$network
