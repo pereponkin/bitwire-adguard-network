@@ -135,6 +135,8 @@
 35.210.13.61$network
 35.210.13.125$network
 35.210.18.21$network
+35.210.19.110$network
+35.210.19.131$network
 35.210.24.13$network
 35.210.24.61$network
 35.210.31.160$network
@@ -143,6 +145,7 @@
 35.210.44.49$network
 35.210.53.157$network
 35.210.54.75$network
+35.210.73.217$network
 35.210.82.106$network
 35.210.83.117$network
 35.210.88.112$network
@@ -160,6 +163,8 @@
 35.210.140.20$network
 35.210.149.174$network
 35.210.160.35$network
+35.210.160.81$network
+35.210.166.45$network
 35.210.172.21$network
 35.210.173.86$network
 35.210.176.28$network
@@ -239,6 +244,7 @@
 54.219.200.136$network
 58.182.58.128$network
 60.52.63.65$network
+62.99.5.57$network
 64.89.160.220$network
 64.89.160.221$network
 64.89.163.175$network
@@ -426,6 +432,7 @@
 184.34.91.75$network
 185.87.121.1$network
 185.95.164.16$network
+185.123.13.209$network
 185.136.15.80$network
 185.136.15.81$network
 185.136.15.82$network
