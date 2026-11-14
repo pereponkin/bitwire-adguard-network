@@ -566,7 +566,6 @@
 47.254.15.174$network
 47.254.153.161$network
 47.254.173.155$network
-50.0.112.139$network
 50.114.180.153$network
 51.15.15.45$network
 51.15.15.81$network
@@ -2830,6 +2829,7 @@
 [2a0f:df00:0:255::206]$network
 [2a0f:e586:f:f::182]$network
 [2a0f:e586:f:f:9d3a:a853:b006:a45d]$network
+[2a0f:e586:f:f:a052:2166:bef9:a432]$network
 [2a0f:e586:f:f:baa4:d491:90be:dca5]$network
 [2a10:8a40:f313::29]$network
 [2a10:c800:1:9cc6::1]$network
