@@ -791,6 +791,7 @@
 95.211.174.137$network
 95.211.239.220$network
 95.211.244.28$network
+95.216.107.148$network
 96.8.119.172$network
 96.44.159.142$network
 96.44.159.204$network
@@ -849,7 +850,9 @@
 104.244.79.61$network
 107.152.41.55$network
 107.172.61.206$network
+107.172.111.142$network
 107.172.111.164$network
+107.172.114.88$network
 107.172.125.210$network
 107.173.9.76$network
 107.173.187.181$network
@@ -2065,7 +2068,6 @@
 [2400:8d60:6::b575:a91]$network
 [2400:d320:2202:5765::1]$network
 [2401:c080:1000:1d05:5400:5ff:fede:970f]$network
-[2401:c080:2000:111f:5400:4ff:fea3:9c02]$network
 [2402:1f00:8000:239::]$network
 [2402:1f00:8100:400::9]$network
 [2403:5806:8df4:0:c2b4:3949:7efb:81f1]$network
@@ -2306,7 +2308,9 @@
 [2606:c680:2000:31::e2d2:91b0]$network
 [2607:9d00:2000:59::81c7:e89d]$network
 [2607:9d00:2000:99::ee8d:3014]$network
+[2607:9d00:2000:a8::b80:9543]$network
 [2607:9d00:2000:aa::5c56:5097]$network
+[2607:9d00:2000:aa::c1c7:263e]$network
 [2607:9d00:2000:ac::18d6:8320]$network
 [2607:9d00:2000:ad::4c23:7b11]$network
 [2607:9d00:2000:af::112e:db29]$network
@@ -2533,6 +2537,7 @@
 [2a00:da00:f460:f800::1]$network
 [2a01:270:9847::1]$network
 [2a01:4f8:173:1763:73da:a392:c19b:9aa3]$network
+[2a01:4f9:2b:75d::124:148]$network
 [2a01:5e0:36:c311::1]$network
 [2a01:5e0:36:cf2a::1]$network
 [2a01:6560:0:102::103:10]$network
@@ -2854,7 +2859,6 @@
 [2a0e:bfc2:0:3f::9473]$network
 [2a0e:bfc7::216:3cff:fe6d:b40]$network
 [2a0e:bfc7::216:3cff:fe6f:c4ca]$network
-[2a0e:bfc7::5054:ff:fed6:dc14]$network
 [2a0e:bfc7::b6b5:2fff:fe6a:84bc]$network
 [2a0e:bfc7:100:2b::eb48]$network
 [2a0e:bfc7:300:15::10]$network
