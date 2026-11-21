@@ -7,7 +7,6 @@
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
 3.101.143.168$network
-5.2.69.86$network
 5.101.116.122$network
 5.189.137.53$network
 5.189.161.50$network
@@ -37,7 +36,6 @@
 27.79.0.150$network
 27.79.2.7$network
 27.79.2.178$network
-27.79.4.180$network
 27.79.5.133$network
 27.79.5.137$network
 27.79.5.144$network
@@ -65,7 +63,6 @@
 34.22.144.98$network
 34.22.199.197$network
 34.22.211.175$network
-34.22.220.217$network
 34.22.229.71$network
 34.38.1.130$network
 34.38.98.3$network
@@ -84,7 +81,6 @@
 34.78.26.141$network
 34.78.118.97$network
 34.79.12.66$network
-34.79.89.168$network
 34.140.17.70$network
 34.140.19.217$network
 34.140.64.102$network
@@ -202,7 +198,6 @@
 35.233.109.223$network
 35.233.117.1$network
 35.233.126.229$network
-35.241.210.215$network
 36.139.216.235$network
 36.151.150.108$network
 36.255.97.54$network
@@ -212,7 +207,6 @@
 41.75.123.75$network
 41.93.28.11$network
 41.111.172.25$network
-43.153.114.203$network
 43.156.20.191$network
 43.157.226.233$network
 43.172.81.176$network
@@ -374,7 +368,6 @@
 116.99.170.139$network
 116.99.172.160$network
 116.99.173.142$network
-116.99.174.150$network
 116.99.174.201$network
 116.99.175.51$network
 116.99.175.236$network
@@ -483,10 +476,7 @@
 164.68.126.168$network
 165.22.148.135$network
 165.154.11.64$network
-165.227.16.50$network
 165.227.16.226$network
-165.227.28.164$network
-165.227.56.128$network
 167.71.138.9$network
 167.86.76.199$network
 167.86.80.153$network
@@ -522,7 +512,6 @@
 175.210.10.97$network
 176.65.139.131$network
 176.102.49.129$network
-176.103.15.188$network
 178.67.248.12$network
 178.83.99.8$network
 179.43.153.2$network
@@ -583,16 +572,13 @@
 204.3.231.15$network
 206.81.23.5$network
 206.189.169.145$network
-207.175.20.206$network
 207.175.36.218$network
-207.175.64.233$network
 207.175.66.99$network
 207.175.77.252$network
 207.175.109.36$network
 207.175.136.167$network
 207.175.157.156$network
 207.180.194.109$network
-207.241.172.146$network
 209.38.121.225$network
 209.99.190.186$network
 209.99.190.215$network
