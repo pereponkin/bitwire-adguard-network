@@ -1043,6 +1043,7 @@
 150.40.127.100$network
 150.40.127.145$network
 150.40.127.148$network
+150.40.127.160$network
 150.40.127.161$network
 150.40.127.183$network
 150.40.127.186$network
@@ -2077,7 +2078,6 @@
 [2401:c080:1000:1d05:5400:5ff:fede:970f]$network
 [2402:1f00:8000:239::]$network
 [2402:1f00:8100:400::9]$network
-[2402:a7c0:3003:113:1c00:30ff:fe00:b29]$network
 [2407:3640:2207:8882::1]$network
 [2600:3c00::f03c:91ff:fe73:f9ba]$network
 [2600:3c00::f03c:95ff:fe5d:8f00]$network
@@ -2661,7 +2661,6 @@
 [2a07:6d80:1e01:3a13::]$network
 [2a07:e042:1:181::1]$network
 [2a07:e042:1:182::1]$network
-[2a09:3f00:1001:e151::]$network
 [2a09:61c0::20]$network
 [2a09:61c0::21]$network
 [2a09:61c0::22]$network
@@ -2904,7 +2903,6 @@
 [2a10:c800:1:f7f8:0:1ce:1ce:babe]$network
 [2a11:6100:0:184f::]$network
 [2a11:6100:0:1959::]$network
-[2a11:6100:0:1af3::]$network
 [2a11:6100:0:1c0e::]$network
 [2a12:bec4:1821:631::a]$network
 [2a13:9500:145:abcd:be24:11ff:fe8e:7722]$network
