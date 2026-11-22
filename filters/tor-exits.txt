@@ -9,6 +9,7 @@
 ! Category source: https://raw.githubusercontent.com/borestad/firehol-mirror/refs/heads/main/iblocklist_onion_router.netset
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
+2.29.201.23$network
 2.56.10.36$network
 2.58.56.35$network
 2.58.56.43$network
@@ -2057,7 +2058,6 @@
 [2400:8905:e001:10f::1337:c0de]$network
 [2400:8d60:6::b575:a91]$network
 [2400:d320:2202:5765::1]$network
-[2401:c080:1000:1d05:5400:5ff:fede:970f]$network
 [2402:1f00:8000:239::]$network
 [2402:1f00:8100:400::9]$network
 [2407:3640:2207:8882::1]$network
@@ -2299,7 +2299,6 @@
 [2605:6f08:2000:2d::ad61:a251]$network
 [2605:6f08:2000:de::fd94:c6eb]$network
 [2605:6f0a:2000:12::b943:70e2]$network
-[2605:6f0a:2000:17::e6e3:92c3]$network
 [2606:c680:2000:2e::e35d:6f24]$network
 [2606:c680:2000:30::6997:6ab6]$network
 [2607:9d00:2000:59::81c7:e89d]$network
