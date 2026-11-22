@@ -10,7 +10,6 @@
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Expires: 2 hours
 2.56.10.36$network
-2.57.122.210$network
 2.58.56.35$network
 2.58.56.43$network
 2.58.56.93$network
@@ -395,11 +394,6 @@
 45.9.156.101$network
 45.9.156.105$network
 45.9.156.110$network
-45.9.156.144$network
-45.9.156.182$network
-45.9.156.183$network
-45.9.156.184$network
-45.9.156.185$network
 45.9.156.238$network
 45.9.168.56$network
 45.9.168.93$network
@@ -482,7 +476,6 @@
 45.88.186.92$network
 45.88.200.76$network
 45.88.200.78$network
-45.88.200.95$network
 45.90.4.235$network
 45.91.250.107$network
 45.95.169.21$network
@@ -620,7 +613,6 @@
 66.183.173.29$network
 66.220.242.222$network
 67.217.244.5$network
-67.219.109.141$network
 68.183.200.189$network
 69.12.64.123$network
 69.12.72.56$network
@@ -1029,14 +1021,11 @@
 149.202.79.129$network
 150.40.117.43$network
 150.40.125.13$network
-150.40.126.28$network
-150.40.126.34$network
 150.40.126.42$network
 150.40.126.101$network
 150.40.126.103$network
 150.40.126.115$network
 150.40.126.134$network
-150.40.126.164$network
 150.40.126.181$network
 150.40.127.22$network
 150.40.127.65$network
@@ -1251,7 +1240,6 @@
 185.100.85.25$network
 185.100.85.132$network
 185.100.87.41$network
-185.100.87.42$network
 185.100.87.136$network
 185.100.87.140$network
 185.100.87.166$network
@@ -1298,8 +1286,6 @@
 185.132.53.199$network
 185.132.176.180$network
 185.138.88.25$network
-185.141.24.110$network
-185.141.24.115$network
 185.150.28.13$network
 185.154.110.16$network
 185.154.110.17$network
@@ -1325,7 +1311,6 @@
 185.207.107.130$network
 185.207.107.216$network
 185.212.226.76$network
-185.217.2.239$network
 185.217.2.241$network
 185.220.100.240$network
 185.220.100.241$network
@@ -1764,7 +1749,6 @@
 194.32.107.87$network
 194.32.107.163$network
 194.32.107.172$network
-194.36.190.112$network
 194.48.248.57$network
 194.53.137.42$network
 194.53.137.102$network
@@ -1803,11 +1787,9 @@
 198.98.62.158$network
 198.144.178.155$network
 198.167.206.151$network
-198.167.206.183$network
 198.167.206.201$network
 198.167.206.213$network
 198.167.206.224$network
-198.167.206.248$network
 198.251.84.163$network
 198.251.84.237$network
 198.251.88.18$network
@@ -2853,7 +2835,6 @@
 [2a0c:6a41:c13:1337::107]$network
 [2a0c:9f00:2:d570::1]$network
 [2a0c:e300:b:b::b]$network
-[2a0d:bbc7::f816:3eff:feef:f6be]$network
 [2a0d:c2c0:1:4::2]$network
 [2a0e:1d80:13:51e8::1]$network
 [2a0e:1d80:13:c999::1]$network
@@ -2883,7 +2864,6 @@
 [2a0e:bfc7::216:3cff:fe6d:b40]$network
 [2a0e:bfc7::216:3cff:fe6f:c4ca]$network
 [2a0e:bfc7::b6b5:2fff:fe6a:84bc]$network
-[2a0e:bfc7:100:2b::eb48]$network
 [2a0e:bfc7:300:15::10]$network
 [2a0e:bfc7:300:91::57ec]$network
 [2a0e:bfc7:300:bc::8675]$network
