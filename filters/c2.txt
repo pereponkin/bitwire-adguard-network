@@ -42,6 +42,7 @@
 8.138.23.63$network
 8.140.239.162$network
 8.146.227.247$network
+8.148.4.65$network
 8.148.184.136$network
 8.148.201.210$network
 8.152.2.86$network

@@ -11,6 +11,7 @@
 ! Expires: 2 hours
 2.29.201.23$network
 2.56.10.36$network
+2.56.119.122$network
 2.58.56.35$network
 2.58.56.43$network
 2.58.56.93$network
@@ -475,8 +476,6 @@
 45.86.153.248$network
 45.88.186.89$network
 45.88.186.92$network
-45.88.200.76$network
-45.88.200.78$network
 45.90.4.235$network
 45.91.250.107$network
 45.95.169.21$network
@@ -484,7 +483,6 @@
 45.95.169.109$network
 45.95.169.110$network
 45.95.169.119$network
-45.95.169.126$network
 45.95.169.128$network
 45.95.233.104$network
 45.118.133.44$network
@@ -492,7 +490,6 @@
 45.129.0.166$network
 45.129.8.100$network
 45.132.246.245$network
-45.133.73.6$network
 45.133.73.14$network
 45.133.73.28$network
 45.133.73.35$network
@@ -501,7 +498,6 @@
 45.133.74.53$network
 45.134.48.12$network
 45.134.225.36$network
-45.135.180.129$network
 45.137.69.9$network
 45.137.69.13$network
 45.137.69.48$network
@@ -525,6 +521,7 @@
 45.138.16.239$network
 45.138.16.240$network
 45.138.16.248$network
+45.141.117.217$network
 45.141.117.244$network
 45.141.119.175$network
 45.141.119.233$network
@@ -716,12 +713,10 @@
 89.58.26.216$network
 89.58.41.156$network
 89.99.115.4$network
-89.127.232.224$network
 89.147.108.90$network
 89.147.110.82$network
 89.147.110.118$network
 89.147.110.154$network
-89.147.110.251$network
 89.147.111.87$network
 89.234.157.254$network
 90.184.10.74$network
@@ -953,7 +948,6 @@
 131.72.79.38$network
 134.199.173.242$network
 134.199.203.32$network
-134.209.157.140$network
 135.125.233.127$network
 136.244.111.163$network
 137.220.120.168$network
@@ -1024,7 +1018,6 @@
 149.202.79.129$network
 150.40.117.43$network
 150.40.125.13$network
-150.40.126.42$network
 150.40.126.101$network
 150.40.126.103$network
 150.40.126.115$network
@@ -1034,11 +1027,8 @@
 150.40.127.65$network
 150.40.127.100$network
 150.40.127.145$network
-150.40.127.148$network
 150.40.127.160$network
 150.40.127.161$network
-150.40.127.183$network
-150.40.127.186$network
 150.40.127.237$network
 150.40.127.243$network
 150.129.10.152$network
@@ -1046,10 +1036,6 @@
 151.240.100.190$network
 151.241.30.240$network
 151.242.30.113$network
-151.242.104.8$network
-151.242.104.14$network
-151.242.104.20$network
-151.242.104.220$network
 151.242.242.39$network
 151.242.242.45$network
 152.32.206.127$network
@@ -1500,7 +1486,6 @@
 185.243.218.231$network
 185.243.218.232$network
 185.243.218.233$network
-185.244.149.73$network
 185.244.192.175$network
 185.244.192.184$network
 185.246.84.179$network
@@ -1721,9 +1706,6 @@
 193.189.100.204$network
 193.189.100.205$network
 193.189.100.206$network
-193.200.221.84$network
-193.200.221.85$network
-193.200.221.86$network
 193.200.229.243$network
 193.218.118.89$network
 193.218.118.128$network
@@ -1973,7 +1955,6 @@
 213.95.55.63$network
 213.95.149.22$network
 213.176.18.193$network
-213.210.4.3$network
 216.73.159.75$network
 216.73.159.101$network
 216.239.90.19$network
@@ -2059,7 +2040,6 @@
 [2001:41d0:701:1000::5196]$network
 [2001:b011:4006:d615::b]$network
 [2001:b030:2422::7234]$network
-[2400:8901::f03c:94ff:fe7f:59f6]$network
 [2400:8905:e001:10f::1337:c0de]$network
 [2400:8d60:6::b575:a91]$network
 [2400:d320:2202:5765::1]$network
@@ -2550,6 +2530,7 @@
 [2a01:7e00::2000:e4ff:fe2b:a90a]$network
 [2a01:7e00::f03c:91ff:fe78:b382]$network
 [2a01:7e00::f03c:94ff:fecc:b297]$network
+[2a01:e5c0:6241::2]$network
 [2a01:ecc0:1000:a100::2]$network
 [2a02:418:6017::147]$network
 [2a02:418:6017::148]$network
@@ -2860,7 +2841,6 @@
 [2a0e:97c0:3e3:460:1337:b20b:1337:9]$network
 [2a0e:97c0:3e3:460:1337:b40b:1337:11]$network
 [2a0e:97c0:713:20::1]$network
-[2a0e:bfc0::5054:ff:feb0:816d]$network
 [2a0e:bfc0:0:f::4558:4954]$network
 [2a0e:bfc0:0:1c::426a]$network
 [2a0e:bfc0:0:34::4378]$network
@@ -2903,6 +2883,7 @@
 [2a14:c380:90:6::a]$network
 [2a14:c380:90:15:66:75:6d:6f]$network
 [2a14:c380:691:226f::1]$network
+[2a14:c380:6f1:aaa::1]$network
 [2a14:c380:c70:70::a]$network
 [2a14:c380:d70:c:146:165:155:157]$network
 [2a14:c380:d70:16::a]$network
