@@ -15,7 +15,6 @@
 1.15.76.39$network
 1.15.100.187$network
 1.69.201.35$network
-1.92.95.105$network
 1.92.101.103$network
 1.92.135.168$network
 1.94.65.9$network
@@ -27,7 +26,6 @@
 2.57.241.129$network
 5.104.86.108$network
 5.189.191.124$network
-5.252.153.0$network
 8.17.56.128$network
 8.130.74.111$network
 8.130.80.145$network
@@ -226,7 +224,6 @@
 47.100.16.83$network
 47.101.51.235$network
 47.101.172.178$network
-47.103.78.72$network
 47.103.95.85$network
 47.103.214.7$network
 47.104.159.246$network
@@ -241,6 +238,7 @@
 47.109.198.8$network
 47.113.98.42$network
 47.113.206.140$network
+47.115.221.177$network
 47.116.130.234$network
 47.116.211.215$network
 47.118.25.45$network
@@ -277,7 +275,6 @@
 51.222.87.16$network
 54.178.100.27$network
 59.110.23.216$network
-60.205.109.25$network
 60.205.126.246$network
 60.217.23.146$network
 60.217.58.49$network
@@ -288,6 +285,7 @@
 62.164.177.14$network
 62.234.22.228$network
 62.234.45.132$network
+62.234.59.4$network
 64.89.161.183$network
 64.90.3.208$network
 64.118.128.131$network
@@ -390,7 +388,6 @@
 106.14.16.18$network
 106.14.116.17$network
 106.15.10.2$network
-106.52.99.247$network
 106.52.127.131$network
 106.52.207.50$network
 106.53.168.218$network
@@ -493,7 +490,6 @@
 118.25.16.250$network
 118.25.147.157$network
 118.31.18.77$network
-118.31.114.149$network
 118.89.79.131$network
 118.89.88.183$network
 118.89.203.103$network
@@ -706,7 +702,6 @@
 169.239.128.43$network
 170.231.239.144$network
 172.86.76.154$network
-172.245.28.187$network
 172.245.57.227$network
 172.245.156.179$network
 172.245.196.240$network
@@ -780,7 +775,6 @@
 198.44.116.156$network
 198.44.177.179$network
 198.46.199.110$network
-202.95.18.30$network
 202.182.112.157$network
 203.83.10.114$network
 203.91.75.89$network
