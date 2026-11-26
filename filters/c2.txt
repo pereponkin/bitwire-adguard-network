@@ -248,6 +248,7 @@
 47.122.47.221$network
 47.122.111.172$network
 47.122.152.65$network
+47.123.2.19$network
 47.129.2.130$network
 47.129.171.26$network
 47.236.40.28$network
@@ -521,6 +522,7 @@
 120.55.3.157$network
 120.55.93.58$network
 120.55.246.213$network
+120.76.202.116$network
 121.4.38.18$network
 121.4.76.54$network
 121.4.92.72$network
